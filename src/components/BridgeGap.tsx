@@ -1,4 +1,4 @@
-import React from "react";
+
 import NigeriaLogo from "../assets/fed-img.jpg";
 import { Link } from "react-router-dom";
 import { CiHome } from "react-icons/ci";

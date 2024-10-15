@@ -1,4 +1,4 @@
-import React from "react";
+
 import NigeriaLogo from "../assets/fed-img.jpg";
 import { FaFacebookSquare } from "react-icons/fa";
 import { FaXTwitter } from "react-icons/fa6";

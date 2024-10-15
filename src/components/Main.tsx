@@ -1,9 +1,9 @@
-import React from "react";
+
 import presidentImg from '../assets/president.png';
 import BreakingNews from "./BreakingNews";
-import PerformanceDashboard from "./PerformanceDashboard";
-import Navbar from "./Navbar";
 import Footer from "./Footer";
+import Navbar from './Navbar';
+import PerformanceDashboard from './PerformanceDashboard';
 
 const Main = () => {
   return (
