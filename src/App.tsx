@@ -5,7 +5,7 @@ import Initiative from "./pages/Initiative";
 import NewsAndEvent from "./pages/NewsAndEvent";
 import Contact from "./pages/Contact";
 import More from "./pages/More";
-import Main from "./components/main";
+import Main from "./components/Main";
 import BreakingNews from "./components/BreakingNews";
 import PerformanceDashboard from "./components/PerformanceDashboard";
 import BridgeGap from "./components/BridgeGap";

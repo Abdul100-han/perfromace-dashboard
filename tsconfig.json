@@ -1,4 +1,12 @@
 {
+  "compilerOptions": {
+    "jsx": "react-jsx",      // This enables JSX support
+    "allowJs": true,     // This allows JavaScript files (.js, .jsx)
+    "checkJs": false ,    // Disable type checking for JavaScript files
+    "strict": true,
+    "moduleResolution": "node",
+    "esModuleInterop": true
+  },
   "files": [],
   "references": [
     { "path": "./tsconfig.app.json" },
